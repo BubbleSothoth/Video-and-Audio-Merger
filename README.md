@@ -14,4 +14,4 @@ Windows10及以上
 ## 解释器
 Python 3.10.5
 ## 备注
-确定你的python支持moviepy库
+确保你的python支持moviepy库
